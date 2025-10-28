@@ -1,0 +1,13 @@
+{
+  "name": "aes-green-bot",
+  "version": "1.0.0",
+  "description": "AES Green bot — merged features of Baobun, DraftBot, Mimu (clone-like)",
+  "main": "index.js",
+  "engines": { "node": "18.x" },
+  "scripts": { "start": "node index.js" },
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.0.0",
+    "nanoid": "^4.0.0"
+  }
+}
